@@ -9,6 +9,7 @@ Right now I'm deep in **Python, FastAPI and SQLite**, heading towards retrieval 
 
 | | |
 |---|---|
+| ⚛️ **[COLLIDER](https://collider-tau.vercel.app)** | Real ATLAS collision data: browse events, inspect them in 3D, and run a classifier that also says what it cannot know. Reconstructing 124,935 real events reproduces four known particles to within 0.5% — checked on every build · [code](https://github.com/cvysh/collider) |
 | 📚 **[bookshelf](https://bookshelf-krish.vercel.app)** | Every book I've read, shelved by subject, with my notes, a map of how they connect, and the thoughts they set off. 66 read, 6 on the up-next pile. |
 | 🎂 **[3D birthday cake](https://birthday-cake-for-girlfie.vercel.app)** | A birthday scene that runs in the browser, built with React Three Fiber · [code](https://github.com/cvysh/birthday-cake-for-girlfie) |
 | 🧭 **Personal dashboard** | One page holding a year of plans — gates, syllabus, daily log — backed by my own server. |
