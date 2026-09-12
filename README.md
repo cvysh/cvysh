@@ -1,7 +1,7 @@
-# Hi, I'm Krish 👋
+# Hi there, I'm Krish 
 
 Final-year computer science student in Delhi NCR, graduating June 2027.
-I build small useful things while I learn how to build large ones — and I do it in public, including the parts that break.
+I build small useful things while I learn how to build large ones, and I try to do it in public, including the parts that break.
 
 Right now I'm deep in **Python, FastAPI and SQLite**, heading towards retrieval and agents.
 
@@ -21,9 +21,6 @@ Python  →  FastAPI + SQLite  →  Postgres + retrieval  →  agents that survi
 
 Daily practice lives in [drills](https://github.com/cvysh/drills). The graph is the point: green means I showed up.
 
-### Away from the keyboard
-
-Gym most mornings · reading philosophy and Russian novels · the Himalayas whenever I can get there
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-arora-99a1571b3/)
 
